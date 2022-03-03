@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Telegram:+@bush1root)](https://t.me/bush1root)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=bush1root&layout=compact&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bush1root&layout=compact&theme=dracula)](https://github.com/bush1root/)
 
 <!--
 ### Hi there 👋
