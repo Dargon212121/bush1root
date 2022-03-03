@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Telegram:+@bush1root)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Telegram:+@bush1root)](https://t.me/bush1root)
 
 <!--
 ### Hi there 👋
